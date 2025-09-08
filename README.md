@@ -12,11 +12,11 @@ A organização seguirá a divisão dos conteúdos do bootcamp:
 * `notebooks/` → Jupyter Notebooks com códigos desenvolvidos nas aulas e atividades práticas.
 * `datasets/` → Bases de dados utilizadas nos exercícios e projetos.
 * `projetos/` → Projetos finais ou estudos de caso desenvolvidos ao longo do bootcamp.
-* `anotacoes/` → Resumos e materiais de estudo para reforço dos conceitos.
+* `atividades/` → Dedicada às atividades semanais propostas durante o bootcamp.
 
 ## Tecnologias e Ferramentas
 
-* Python 3.x
+* Python 3.11
 * Pandas, NumPy, Matplotlib, Seaborn
 * Scikit-learn
 * Git e GitHub
