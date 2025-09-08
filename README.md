@@ -1,4 +1,4 @@
-# Botcamp-Avanti-ML
+# Bootcamp-Avanti-ML
 Repositório criado para acompanhar minhas atividades e projetos desenvolvidos durante o **Bootcamp Avanti de Machine Learning**, promovido pelo **Instituto Atlântico**.
 
 ## Objetivo
