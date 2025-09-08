@@ -28,5 +28,3 @@ Durante o bootcamp, espero:
 * Reforçar os fundamentos de **aprendizado de máquina**
 * Praticar desde a **análise exploratória de dados** até a **criação e avaliação de modelos preditivos**
 * Aplicar boas práticas em projetos de dados
-
-Quer que eu prepare também um **modelo de README mais visual** (com badges, ícones e talvez um cronograma das aulas do bootcamp)? Isso deixa o repositório mais chamativo no GitHub.
