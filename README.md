@@ -9,7 +9,12 @@ O principal objetivo deste repositório é documentar minha evolução no aprend
 
 A organização seguirá a divisão dos conteúdos do bootcamp:
 
+<<<<<<< HEAD
 * `projeto final/` → Projeto final do bootcamp onde usei modelo ml para classificar espécie de aves.
+=======
+* `datasets/` → Bases de dados utilizadas nos exercícios e projetos.
+* `projeto/` → Projetos final desenvolvido ao longo do bootcamp.
+>>>>>>> 8adcfadfda649e0333a83c02882f57d0cbe226b7
 * `atividades/` → Dedicada às atividades semanais propostas durante o bootcamp.
 
 ## Tecnologias e Ferramentas

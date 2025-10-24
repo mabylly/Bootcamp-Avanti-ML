@@ -58,7 +58,7 @@ df = pd.read_csv('nome_do_arquivo.csv')
 df.head()
 ```
 
-*Utilizando pandas, como selecionar uma coluna específica e filtrar linhas
+* Utilizando pandas, como selecionar uma coluna específica e filtrar linhas
 em um “DataFrame” com base em uma condição?
 
 ```python
@@ -68,7 +68,7 @@ df['nome_coluna']
 df[df['nome_coluna'] > 10] 
 ```
 
-*Utilizando pandas, como lidar com valores ausentes (NaN) em um
+* Utilizando pandas, como lidar com valores ausentes (NaN) em um
 DataFrame?
 
 ```python
