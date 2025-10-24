@@ -9,9 +9,7 @@ O principal objetivo deste repositório é documentar minha evolução no aprend
 
 A organização seguirá a divisão dos conteúdos do bootcamp:
 
-* `notebooks/` → Jupyter Notebooks com códigos desenvolvidos nas aulas e atividades práticas.
-* `datasets/` → Bases de dados utilizadas nos exercícios e projetos.
-* `projetos/` → Projetos finais ou estudos de caso desenvolvidos ao longo do bootcamp.
+* `projeto final/` → Projeto final do bootcamp onde usei modelo ml para classificar espécie de aves.
 * `atividades/` → Dedicada às atividades semanais propostas durante o bootcamp.
 
 ## Tecnologias e Ferramentas
